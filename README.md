@@ -1,4 +1,4 @@
-# Khalid-s-portfolio
+# Khalid Muhammed
 I’m currently working in Nigerian Space Agency as Sr. DevOps Engineer
 
 🌱 I’m currently working on Setting up infra using Terraform over AWS
