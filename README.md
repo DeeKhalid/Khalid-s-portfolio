@@ -5,7 +5,7 @@ I’m currently working in Nigerian Space Agency as Sr. DevOps Engineer
 
 💡 Hashtag that describes me #DevOpsWizard
 
-📝 I regulary write articles on Knoldus Blogs
+
 
 💬 Ask me about DevOps Tools and Practices
 
